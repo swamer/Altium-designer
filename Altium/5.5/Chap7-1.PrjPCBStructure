@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=LED|SchDesignator=LED|FileName=LED_Display.SchDoc|SymbolType=Normal|RawFileName=LED_Display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=MCU.SchDoc
